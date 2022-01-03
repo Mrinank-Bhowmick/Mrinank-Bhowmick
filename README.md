@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-#
+[![ligne-gif-discord-line.gif](https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB)
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=EFFLUX110&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/EFFLUX110)
 
@@ -34,7 +34,7 @@
 </p>
 
 #
-
+[![ligne-gif-discord-line.gif](https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB)
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/EFFLUX110/EFFLUX110/blob/master/GIF/github.gif"></a>
 <br/>
 
