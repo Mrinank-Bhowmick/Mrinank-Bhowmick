@@ -71,6 +71,10 @@
 </p>
 </details>
 
+
+![snake gif](https://github.com/EFFLUX110/EFFLUX110/blob/output/github-contribution-grid-snake.gif)
+
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=EFFLUX110&theme=react-dark&hide_border=true&area=true)
 
 <br>
