@@ -80,6 +80,10 @@
 <br>
 <br>
 
+## Follow me on GitHub to display your profile 
+
+![Metrics](https://metrics.lecoq.io/EFFLUX110?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=100&people.size=100&people.types=followers&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
+
 <h1>
   <b>Connect With Me</b>
   <a target="_blank">
