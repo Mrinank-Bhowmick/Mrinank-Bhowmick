@@ -63,15 +63,15 @@
 
 <p align="center">
   <a href="https://github.com/EFFLUX110">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EFFLUX110&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=EFFLUX110&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/EFFLUX110">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFFLUX110&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="200" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFFLUX110&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=EFFLUX110&theme=react-dark&hide_border=true&area=true)
 
 <br>
 <br>
