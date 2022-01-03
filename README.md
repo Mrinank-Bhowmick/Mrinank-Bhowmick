@@ -29,7 +29,7 @@
   <a>
     <img height="150" width="150" src="https://github.com/EFFLUX110/EFFLUX110/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EFFLUX110&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/EFFLUX110/EFFLUX110/blob/master/PNG/right.png">
+    <img height="150" width="140" src="https://github.com/EFFLUX110/EFFLUX110/blob/master/PNG/right.png">
   </a>
 </p>
 
