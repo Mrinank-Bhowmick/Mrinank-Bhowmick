@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/MrinankBhowmick/MrinankBhowmick/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/MrinankBhowmick/MrinankBhowmick/blob/master/GIF/Untitled%20design.gif">
 </a>
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Python, SQL, Cybersecurity, Linux**
@@ -21,9 +21,9 @@
 <br/>
 <br/>
 
-[![ligne-gif-discord-line.gif](https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB)
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=MrinankBhowmick&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/MrinankBhowmick)
+<center> <img src="https://github-profile-trophy.vercel.app/?username=MrinankBhowmick&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="trophy" /> </center>
 
 <p align="center">
   <a>
@@ -33,8 +33,8 @@
   </a>
 </p>
 
-#
-[![ligne-gif-discord-line.gif](https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB)
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/MrinankBhowmick/MrinankBhowmick/blob/master/GIF/github.gif"></a>
 <br/>
 
@@ -46,13 +46,14 @@
 <code><img height="40" width="40" src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_960_720.png"></code>
 <code><img height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"></code>
 
-#
+# 
+
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 
 <br/>
 
-#
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 <details open="">
 <summary>
@@ -110,6 +111,6 @@
 
 </div>
 
-#
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 ![footer](https://github.com/MrinankBhowmick/MrinankBhowmick/blob/master/PNG/footer.png)
