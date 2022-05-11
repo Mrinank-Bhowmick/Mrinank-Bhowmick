@@ -23,7 +23,7 @@
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
-<center> <img src="https://github-profile-trophy.vercel.app/?username=Mrinank-Bhowmick&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="trophy" /> </center>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mrinank-Bhowmick&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <a>
