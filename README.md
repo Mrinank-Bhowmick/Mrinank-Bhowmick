@@ -23,7 +23,7 @@
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
-<center> <img src="https://github-profile-trophy.vercel.app/?username=MrinankBhowmick&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="trophy" /> </center>
+<center> <img src="https://github-profile-trophy.vercel.app/?username=Mrinank-Bhowmick&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="trophy" /> </center>
 
 <p align="center">
   <a>
@@ -64,10 +64,10 @@
 
 <p align="center">
   <a href="https://github.com/Mrinank-Bhowmick">
-    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=MrinankBhowmick&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Mrinank-Bhowmick&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/Mrinank-Bhowmick">
-    <img align="center" height="200" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinankBhowmick&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="200" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinank-Bhowmick&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
