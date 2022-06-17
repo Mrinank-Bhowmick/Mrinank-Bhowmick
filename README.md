@@ -1,6 +1,6 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/GIF/Earth.gif" width="30px" style="max-width:100%;">
+    <img src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/GIF/Earth.gif" width="10px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;World/&gt;!
   <a target="_blank">
