@@ -1,17 +1,14 @@
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/GIF/Earth.gif" width="10px" style="max-width:100%;">
-  </a>
+  <img src="GIF/Earth.gif" width="24">
   𝐇𝐞𝐥𝐥𝐨, &lt;World/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
+  <img src="GIF/Hi.gif" width="40" />
 </h1>
+
 <br/>
 <br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
-</a>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
+
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Python, SQL, Cybersecurity, Linux**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Pentesting tools and Open source programs**
@@ -23,13 +20,13 @@
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mrinank-Bhowmick&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&row=1&column=7" class="center">
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/PNG/left.png">
     <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinank-Bhowmick&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/PNG/right.png">
   </a>
 </p>
 
