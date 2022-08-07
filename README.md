@@ -1,6 +1,22 @@
+
+<p align="middle">
+  <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐-**Python,-Android,-Java,-Linux**">
+  <img src="PNG/About.png" width="100" />
+  </a>
+  <a href="#𝙂𝙞𝙩𝙃𝙪𝙗-𝙎𝙩𝙖𝙩𝙨">
+  <img src="PNG/Stats.png" width="100" /> 
+  </a>
+  <a href="#">
+  <img src="PNG/projects.png" width="100" />
+  </a>
+  <a href="#Connect-With-Me">
+  <img src="PNG/social.png" width="100" />
+  </a>
+</p>
+
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24">
-  𝐇𝐞𝐥𝐥𝐨, &lt;World/&gt;!
+  𝐇𝐞𝐥𝐥𝐨 &lt;World/&gt;!
   <img src="GIF/Hi.gif" width="40" />
 </h1>
 
@@ -10,10 +26,13 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
 
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Python, SQL, Cybersecurity, Linux**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Pentesting tools and Open source programs**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“Copy-and-Paste was programmed by programmers for programmers actually.”**
+#### ⦿ 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Python, Android, Java, Linux**
+
+⦿ 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **more and more Open source projects**
+
+⦿ 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+
+⦿ ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“Copy-and-Paste was programmed by programmers for programmers actually.”**
 
 <br/>
 <br/>
@@ -24,13 +43,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&row=1&column=7" class="center">
 
-<p align="center">
-  <a>
-    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinank-Bhowmick&theme=dark&hide_border=true"/>
-  </a>
-</p>
-
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+#
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/MrinankBhowmick/MrinankBhowmick/blob/master/GIF/github.gif"></a>
 <br/>
@@ -47,6 +60,19 @@
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+
+<br>
+
+# 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
+
+<p align="center">
+  <a>
+    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinank-Bhowmick&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
 
 <br/>
 
@@ -83,12 +109,7 @@
 
 ![Metrics](https://metrics.lecoq.io/Mrinank-Bhowmick?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=100&people.size=100&people.types=followers&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 
-<h1>
-  <b>Connect With Me</b>
-  <a target="_blank">
-    <img src="https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-</h1>
+# Connect With Me
 
 <p align="center">
   <br>
