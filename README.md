@@ -114,7 +114,7 @@
 <p align="center">
   <br>
   </a>
-  <a href="https://www.instagram.com/cyber_efflux/" target="_blank">
+  <a href="https://www.instagram.com/mrinank02/" target="_blank">
     <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"/></code>
   </a>
   <a href="https://twitter.com/_mrinank_" target="_blank">
