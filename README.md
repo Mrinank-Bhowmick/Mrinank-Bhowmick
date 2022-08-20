@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&row=1&column=7" class="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mrinank-Bhowmick&theme=onedark&row=1&column=7)](https://github.com/Mrinank-Bhowmick/github-profile-trophy)
 
 #
 
@@ -107,7 +107,7 @@
 
 ## Follow me on GitHub to display your profile 
 
-![Metrics](https://metrics.lecoq.io/Mrinank-Bhowmick?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=100&people.size=100&people.types=followers&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/Mrinank-Bhowmick?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 
 # Connect With Me
 
