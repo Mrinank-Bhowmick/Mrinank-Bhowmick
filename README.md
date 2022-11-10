@@ -20,6 +20,10 @@
   <img src="GIF/Hi.gif" width="40" />
 </h1>
 
+<h4 align="center">
+  <I>The most prominent thing for me is learning and acquiring new skills to add to my current skill sets</I>
+</h4>
+
 <br/>
 <br/>
 
@@ -30,7 +34,7 @@
 
 ⦿ 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **more and more Open source projects**
 
-⦿ 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+⦿ 🌱 Interested in **Open source | Python development | DevOps | cybersecurity**
 
 ⦿ ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“Copy-and-Paste was programmed by programmers for programmers actually.”**
 
