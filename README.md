@@ -117,9 +117,9 @@
 
 <p align="center">
   <br>
-  </a>
-  <a href="https://www.instagram.com/mrinank02/" target="_blank">
-    <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"/></code>
+  
+  <a href="https://www.linkedin.com/in/mrinank-bhowmick/" target="_blank">
+    <code><img height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/179/179330.png"/></code>    
   </a>
   <a href="https://twitter.com/_mrinank_" target="_blank">
     <code><img height="60" width="60" src="https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_960_720.png"/></code>    
