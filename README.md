@@ -104,7 +104,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mrinank-Bhowmick&theme=react-dark&hide_border=true&area=true)
+[![Mrinank's stats](https://github-readme-activity-graph.cyclic.app/graph?username=Mrinank-Bhowmick&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Mrinank-Bhowmick)
 
 <br>
 <br>
