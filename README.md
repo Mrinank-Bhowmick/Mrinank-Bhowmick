@@ -103,7 +103,7 @@
 </details>
 
 
-![snake gif](https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/output/github-contribution-grid-snake.gif)-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
