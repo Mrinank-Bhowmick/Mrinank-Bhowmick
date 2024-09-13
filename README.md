@@ -1,18 +1,4 @@
 
-<p align="middle">
-  <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐-**what I need**">
-  <img src="PNG/About.png" width="100" />
-  </a>
-  <a href="#𝙂𝙞𝙩𝙃𝙪𝙗-𝙎𝙩𝙖𝙩𝙨">
-  <img src="PNG/Stats.png" width="100" /> 
-  </a>
-  <a href="#">
-  <img src="PNG/projects.png" width="100" />
-  </a>
-  <a href="#Connect-With-Me">
-  <img src="PNG/social.png" width="100" />
-  </a>
-</p>
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24">
@@ -20,12 +6,6 @@
   <img src="GIF/Hi.gif" width="40" />
 </h1>
 
-<h4 align="center">
-  <I>The most prominent thing for me is learning and acquiring new skills to add to my current skill sets</I>
-</h4>
-
-<br/>
-<br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/GIF/Untitled%20design.gif">
 
@@ -34,14 +14,9 @@
 
 ⦿ 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **more and more Open source projects**
 
-⦿ 🌱 Interested in **Open source | Backend | DevOps | cybersecurity**
+⦿ 🌱 Interested in **Open source | FullStack | DevOps | cybersecurity**
 
 ⦿ ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **“Copy-and-Paste was programmed by programmers for programmers actually.”**
-
-<br/>
-<br/>
-
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 <br/>
 
@@ -70,9 +45,6 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png"></code>
 
-
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
-
 <br>
 
 # 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
@@ -82,11 +54,6 @@
     <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinank-Bhowmick&theme=dark&hide_border=true"/>
   </a>
 </p>
-
-
-<br/>
-
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 <details open="">
 <summary>
@@ -138,7 +105,5 @@
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
-
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 ![footer](https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/PNG/footer.png)
