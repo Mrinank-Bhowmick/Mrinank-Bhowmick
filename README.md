@@ -20,9 +20,6 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mrinank-Bhowmick&theme=onedark&row=1&column=7)](https://github.com/Mrinank-Bhowmick/github-profile-trophy)
-
-#
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/MrinankBhowmick/MrinankBhowmick/blob/master/GIF/github.gif"></a>
 <br/>
